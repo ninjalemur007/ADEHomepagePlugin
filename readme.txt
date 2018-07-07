@@ -2,6 +2,7 @@
 Contributors: C. Walley, Arizona Department of Education
 Version: 1.4.0
 Updated: December 22, 2017
+License: DO NOT USE THIS CODE WITHOUT PERMISSION
 
 == Development Log ==
 
