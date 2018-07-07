@@ -1,0 +1,42 @@
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
+
+/*
+Admin Menu Styles
+*/
+
+.bloginput {
+    width: 300px !important;
+}
+
+.boldtitle {
+  font-weight: bold;
+}
+
+form h2 {
+  margin: 0.5em 0;
+}
+
+.form-table th, .form-table td {
+    vertical-align: middle;
+    text-align: left;
+    padding: 5px 10px !important;;
+    line-height: 1.3;
+    font-weight: 600;
+  }
+
+.choose-new {
+  width: 300px;
+}
+
+.current-choice {
+  padding: 0 15px;
+}
+
+#postslist {
+  width: 100%;
+}
+
+#postslist tr td:first-of-type {
+  width: 55%;
+}
